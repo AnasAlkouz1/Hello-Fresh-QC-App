@@ -29,7 +29,7 @@ return (
 <p>Line that works</p>
 <p className='text-foreground/50'>(<span className='text-green-400'> {_lines.filter(x=>{return x._isActive==true}).length} </span>/ 10 )</p>
 </div>
-<div className='ml-2 text-foreground/50'>(Week<span className='ml-2 text-green-400'>31</span>)</div>
+<div className='ml-2 text-foreground/50'>(Week<span className='ml-2 text-green-400'>36</span>)</div>
 <div class="_circle_live"></div>
 </div>
 
